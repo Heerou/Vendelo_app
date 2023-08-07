@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  tittle: MyString
-  description: MyText
-  price: 1
+PS2:
+  tittle: PS2
+  description: Joder una ps2 chipeada
+  price: 50
 
-two:
-  tittle: MyString
-  description: MyText
-  price: 1
+Sswitch:
+  tittle: Nintendo Switch
+  description: No lee las tarjetas SD
+  price: 195
